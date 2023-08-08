@@ -4,7 +4,7 @@ I'm Wissarut Kanasub, a passionate Software Engineering student and aspiring Dev
 
 - 🎓 Studying Solfware engineer at Kasetsart university
 - 🌱 Currently learning Python and Java
-- 👯 Looking to collaborate on open source projects
+- 👯 Looking for study group
 
 ### 📚 Currently Learning/Interested In
 
