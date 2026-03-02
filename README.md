@@ -57,4 +57,4 @@ Currently open to **Full-time** roles and available to start immediately after g
 
 - **Email:** [wissarut.dev@gmail.com](mailto:wissarut.dev@gmail.com)
 - **GitHub:** [github.com/Qosanglesz](https://github.com/Qosanglesz)
-- **LinkedIn:** [linkedin.com/in/YOUR-LINK](https://linkedin.com/in/YOUR-LINK)
+- **LinkedIn:** [Wissarut Kanasub](https://www.linkedin.com/in/wissarut-kanasub/)
