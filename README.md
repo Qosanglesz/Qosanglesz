@@ -2,7 +2,7 @@
 
 I am a **Final-year Software and Knowledge Engineering student** at **Kasetsart University**, expected to graduate in **May 2026**. I am passionate about Full-Stack Development and building scalable software solutions. 🚀
 
-Currently open to **Full-time** or **Part-time** roles and available to start immediately!
+Currently open to **Full-time** roles and available to start immediately after graduation.
 
 ---
 
@@ -19,6 +19,8 @@ Currently open to **Full-time** or **Part-time** roles and available to start im
 **Frontend Development**
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white)
@@ -26,6 +28,7 @@ Currently open to **Full-time** or **Part-time** roles and available to start im
 **Backend & Database**
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat&logo=go&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -41,19 +44,12 @@ Currently open to **Full-time** or **Part-time** roles and available to start im
 
 ### 💼 Work Experience
 
-**Software Engineer Intern @ Supalai Public Company Limited**
+**Software Engineer Intern @ Supalai Public Company Limited**  
 *(June 2025 - Nov 2025)*
-- Acted as the primary **Full-Stack Developer** for internal systems.
-- Delivered end-to-end features: Database design, Backend APIs, and Frontend UI.
-- Implemented **AI solutions** to automate processes and reduce manual workloads.
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qosanglesz&show_icons=true&theme=radical&hide_border=true" alt="Qosanglesz's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qosanglesz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+- Acted as the primary **Full-Stack Developer** for internal systems  
+- Delivered end-to-end features: database design, backend APIs, and frontend UI  
+- Implemented **AI solutions** to automate processes and reduce manual workloads  
 
 ---
 
@@ -61,3 +57,4 @@ Currently open to **Full-time** or **Part-time** roles and available to start im
 
 - **Email:** [wissarut.dev@gmail.com](mailto:wissarut.dev@gmail.com)
 - **GitHub:** [github.com/Qosanglesz](https://github.com/Qosanglesz)
+- **LinkedIn:** [linkedin.com/in/YOUR-LINK](https://linkedin.com/in/YOUR-LINK)
